@@ -4,11 +4,11 @@
 使用swift完成的抓取网页并进行解析展示的项目。
 
 #效果图
-![](https://github.com/miws/Geek/blob/master/ScreenShot/1.png =100X)
-![](https://github.com/miws/Geek/blob/master/ScreenShot/2.png =100X)
-![](https://github.com/miws/Geek/blob/master/ScreenShot/3.png =100X)
-![](https://github.com/miws/Geek/blob/master/ScreenShot/4.png =100X)
-![](https://github.com/miws/Geek/blob/master/ScreenShot/5.png =100X)
+![](https://raw.githubusercontent.com/miws/Geek/master/ScreenShot/1.png =100X)
+![](https://raw.githubusercontent.com/miws/Geek/master/ScreenShot/2.png =100X)
+![](https://raw.githubusercontent.com/miws/Geek/master/ScreenShot/3.png =100X)
+![](https://raw.githubusercontent.com/miws/Geek/master/ScreenShot/4.png =100X)
+![](https://raw.githubusercontent.com/miws/Geek/master/ScreenShot/5.png =100X)
 #使用框架
 第三方框架|功能
 ---------|----
